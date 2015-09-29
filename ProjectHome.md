@@ -1,0 +1,1 @@
+MinimalComps are a set of minimal user interface components for use in ActionScript 3.0 based projects. See http://www.minimalcomps.com
